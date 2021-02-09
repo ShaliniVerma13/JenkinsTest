@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="138515" started-at="2020-10-27T09:48:38Z" finished-at="2020-10-27T09:50:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="138515" started-at="2020-10-27T09:48:38Z" finished-at="2020-10-27T09:50:57Z">
+      <class name="poc.TC01_OCS_Search">
+        <test-method status="PASS" signature="initializeDrivers()[pri:0, instance:poc.TC01_OCS_Search@46d56d67]" name="initializeDrivers" is-config="true" duration-ms="80783" started-at="2020-10-27T15:18:39Z" finished-at="2020-10-27T15:19:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDrivers -->
+        <test-method status="PASS" signature="searchActiveClaim()[pri:0, instance:poc.TC01_OCS_Search@46d56d67]" name="searchActiveClaim" duration-ms="3217" started-at="2020-10-27T15:19:59Z" finished-at="2020-10-27T15:20:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchActiveClaim -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:poc.TC01_OCS_Search@46d56d67]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2020-10-27T15:20:03Z" finished-at="2020-10-27T15:20:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="initializeDrivers()[pri:0, instance:poc.TC01_OCS_Search@46d56d67]" name="initializeDrivers" is-config="true" duration-ms="48785" started-at="2020-10-27T15:20:03Z" finished-at="2020-10-27T15:20:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDrivers -->
+        <test-method status="PASS" signature="searchInactiveCover()[pri:0, instance:poc.TC01_OCS_Search@46d56d67]" name="searchInactiveCover" duration-ms="5695" started-at="2020-10-27T15:20:51Z" finished-at="2020-10-27T15:20:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchInactiveCover -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:poc.TC01_OCS_Search@46d56d67]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2020-10-27T15:20:57Z" finished-at="2020-10-27T15:20:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- poc.TC01_OCS_Search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
