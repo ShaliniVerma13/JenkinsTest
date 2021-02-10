@@ -29,7 +29,7 @@ public class TC01_OCS_Search extends InstantiateDrivers{
 	
 	
 	
-	@Test(enabled=false)
+	@Test(enabled=true)
 	public void searchClient_NavigatetoClientDashboard() 
 	{
 		
@@ -150,7 +150,7 @@ public class TC01_OCS_Search extends InstantiateDrivers{
 	}
 	
 
-	@Test(enabled=true)
+	@Test(enabled=false)
 	public void searchInactiveCover() 
 	{
 		
@@ -189,7 +189,7 @@ public class TC01_OCS_Search extends InstantiateDrivers{
 		}
 		
 	}
-	@Test(enabled=true)
+	@Test(enabled=false)
 	public void searchActiveClaim() 
 	{
 		
