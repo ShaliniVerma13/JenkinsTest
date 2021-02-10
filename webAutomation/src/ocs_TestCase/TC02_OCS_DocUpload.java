@@ -1,4 +1,4 @@
-package poc;
+package ocs_TestCase;
 
 import java.io.IOException;
 
